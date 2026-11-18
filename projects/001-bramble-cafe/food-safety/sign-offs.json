@@ -1,0 +1,17 @@
+{
+  "schema": "uk-food-sign-offs-1.0",
+  "signOffs": [
+    {
+      "doc": "FOODCOOK",
+      "version": "1.0",
+      "file": "ARC-001-FOODCOOK-v1.0.md",
+      "name": "Sam Okafor",
+      "role": "owner",
+      "date": "2026-11-18",
+      "paperSigned": "no",
+      "otherTextRead": false,
+      "body": "15ed5ec9fea255ec0c1853d18e01f9a601e812e171a44a6a39066fd4b813fc36",
+      "outside": "4493074e6abfd3030833e8010e179a9dc7a166b905c5682177d2e1c8841b5e85"
+    }
+  ]
+}

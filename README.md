@@ -48,6 +48,16 @@ projects/
     └── ARC-001-FOOD*.md     # The documents
 ```
 
+## What is here now
+
+`projects/001-bramble-cafe/` holds the invented Bramble Cafe:
+
+- its profile and Cooking worksheets, answered and confirmed. They are the overlay's own test fixture.
+- its Cooking document, `ARC-001-FOODCOOK-v1.0.md`, written from those answers.
+- a sign-off of that document by the invented owner, in `food-safety/sign-offs.json`. A live run of `/arckit-uk-food:uk-food-sign-off` recorded it on 18 November 2026 and marked the document's header. The run loaded the overlay from the ArcKit repository's `main` branch, because no release ships it yet.
+
+The other four sections, the business's own methods and the completion record have not been started.
+
 ## What to test here
 
 - An answer nobody gave stays `NOT YET ANSWERED`.

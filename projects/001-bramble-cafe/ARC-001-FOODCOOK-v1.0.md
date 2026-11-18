@@ -10,22 +10,22 @@
 | **Document Type** | Cooking Safe Methods |
 | **Project** | Bramble Cafe (Project 001) |
 | **Classification** | [PENDING] |
-| **Status** | DRAFT |
+| **Status** | APPROVED |
 | **Version** | 1.0 |
 | **Created Date** | 2026-11-17 |
-| **Last Modified** | 2026-11-17 |
+| **Last Modified** | 2026-11-18 |
 | **Review Cycle** | [PENDING] |
 | **Next Review Date** | [PENDING] |
 | **Owner** | Sam Okafor, owner |
-| **Reviewed By** | [PENDING] |
-| **Approved By** | [PENDING] |
+| **Reviewed By** | Sam Okafor, owner, 2026-11-18 |
+| **Approved By** | Sam Okafor, owner, 2026-11-18 |
 | **Distribution** | [PENDING] |
 
 ## Revision History
 
 | Version | Date | Author | Changes | Approved By | Approval Date |
 |---------|------|--------|---------|-------------|---------------|
-| 1.0 | 2026-11-17 | ArcKit AI | Written from the business's confirmed answers | [PENDING] | [PENDING] |
+| 1.0 | 2026-11-17 | ArcKit AI | Written from the business's confirmed answers | Sam Okafor, owner | 2026-11-18 |
 
 ---
 
@@ -294,3 +294,17 @@ Safety points, reasons and checks are quoted from the Food Standards Agency's Sa
 **ArcKit Version**: 6.22.1
 **Project**: Bramble Cafe (Project 001)
 **Model**: claude-opus-5-5
+
+<!-- arckit-provenance:start -->
+
+## Build Provenance
+
+*Stamped automatically by the ArcKit plugin's `provenance-stamp.mjs` PostToolUse hook. Complements (does not replace) the human-authored footer above. Carries only fields the model can't authoritatively self-report: build context from `.arckit/state.json` and effort levels derived from command frontmatter + the silent-downgrade matrix.*
+
+| Field | Value |
+|-------|-------|
+| Requested Effort | `high` |
+| Effective Effort | `high` |
+| Stamped at | 2026-11-18T17:50:24.554Z |
+
+<!-- arckit-provenance:end -->
