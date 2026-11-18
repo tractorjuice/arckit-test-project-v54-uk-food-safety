@@ -1,0 +1,15 @@
+{
+  "minimumVersion": "2.1.319",
+  "extraKnownMarketplaces": {
+    "arckit-claude": {
+      "source": {
+        "source": "github",
+        "repo": "tractorjuice/arckit-claude"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "arckit@arckit-claude": true,
+    "arckit-uk-food@arckit-claude": true
+  }
+}
